@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @labsan
 - 👀 I’m interested in Machine Learning & Technology of Web Development
-- 🌱 I’m currently learning Frontend Web Developer
+- 🌱 I’m currently learning Backend & Frontend Web Developer
 - 📫 How to reach me on email yondeveloper@gmail.com
 
 <!---
