@@ -1,6 +1,6 @@
 - 👋 Hi, My Name is Andrian Santiyon
 - 👀 I’m interested in Data, Software Testing & Technology of Web Development
-- 🌱 I’m currently QA Engineer & Web Developer
+- 🌱 Become to QA Engineer 
 - 📫 How to reach me on email yondeveloper@gmail.com
 
 <!---
