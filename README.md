@@ -1,5 +1,5 @@
 - 👋 Hi, My Name is Andrian Santiyon
-- 👀 I’m interested in Data, Software Testing & Technology of Web Development 
+- 👀 I’m interested in Cloud Computing, AI, Software Testing & Front-End Web Development
 - 📫 How to reach me on email yondeveloper@gmail.com
 
 <!---
